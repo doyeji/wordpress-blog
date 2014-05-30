@@ -1,6 +1,6 @@
 
 
-<h2>The Theme of My Choice : Sparlking by <a href="http://colorlib.com/" style="color:salmon; text-decoration:none;">Colorlib. </a></h2>
+<h2>The Theme of My Choice : Sparlking by <a href="http://colorlib.com/" style="color:salmon; text-decoration:none;" target="_blank">Colorlib. </a></h2>
 
 <h3>Why?</h3>
 <ol>
@@ -24,5 +24,5 @@ and shows the statistics. Makes life easier. I dont have to go look for the info
  <p>Many people use social media of some sorts and share information online. Making that option available seems like a good choice.</p>  </li> 
 </ol>
 
-<a href="http://maria.do.yoobee.net.nz/" style="color: salmon;">Visit my First wordpress Blog: </a>
+<a href="http://maria.do.yoobee.net.nz/" style="color: salmon;" target="_blank"><h3>Visit my First wordpress Blog</h3></a>
 
