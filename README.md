@@ -1,6 +1,6 @@
 
 
-<The Theme of My Choice : Sparlking by Colorlib. >
+<h1>The Theme of My Choice : Sparlking by Colorlib. </h1>
 
 Why? 
 	
@@ -9,7 +9,7 @@ Why?
 	-easy to navigate through & use: you can 'see' what is a button and what is a heading of the post, what section is for the post. 
 
 
-<Plug-in of My Choice >
+<h1>Plug-in of My Choice </h1>
 
 1. Google Analytics Dashboard for WP: 
 
